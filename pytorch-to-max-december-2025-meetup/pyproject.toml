@@ -1,0 +1,21 @@
+[project]
+name = "pytorch-to-max-december-2025-meetup"
+version = "0.0.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel==7.1.0",
+    "modular==26.1.0.dev2025120205",
+    "torch==2.9.1",
+    "torchvision==0.24.1",
+    "notebook==7.5.0",
+    "kepler==0.2.4",
+    "ipywidgets>=8.1.8",
+]
+
+[[tool.uv.index]]
+name = "modular-nightly"
+url = "https://dl.modular.com/public/nightly/python/simple/"
+
+[tool.uv]
+prerelease = "allow"
