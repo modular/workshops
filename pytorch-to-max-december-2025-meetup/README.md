@@ -1,6 +1,6 @@
 # From PyTorch to MAX
 
-!["event image"](./event.png)
+!["event image"](./meetup121125.png)
 
 * [luma event page](https://luma.com/modularmeetup)
 * [meetup page](https://www.meetup.com/modular-meetup-group/events/311998048/?eventOrigin=group_events_list/?utm_medium=referral&utm_campaign=event_card_savedevents_share_modal&utm_source=link&utm_version=v2)
